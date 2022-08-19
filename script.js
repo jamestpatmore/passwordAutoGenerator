@@ -60,7 +60,7 @@ function writePassword(number, upper, lower, symbol, length) {
 		});
 	}
 	
-	var newPassword = randomPassword;
+	var newPassword = randomPassword.slice(0,length);
 	
 	return newPassword;
 };
