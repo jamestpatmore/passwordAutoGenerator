@@ -1,5 +1,5 @@
 # [passwordAutoGenerator]
-H!!! this is my automated password generator program made supported by Javascript :call_me_hand: 
+H!!! this is my automated password generator program supported by Javascript :call_me_hand: 
 
 
 
