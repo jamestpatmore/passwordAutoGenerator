@@ -19,7 +19,7 @@ code ..
 
 ```
 
-or you can just use the deployment link:
+or you can just use the deployment link:[Link text here](https://jamestpatmore.github.io/passwordAutoGenerator/)
 
 ## Functionality 
 
